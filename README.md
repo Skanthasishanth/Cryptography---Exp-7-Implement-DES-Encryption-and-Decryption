@@ -1,9 +1,9 @@
-# Cryptography---Exp-7-Implement-DES-Encryption-and-Decryption
+# Exp-7 Implement DES Encryption and Decryption
 ## AIM :
 
 To encrypt and decrypt the given message using the DES (Data Encryption Standard) algorithm.
 
-## ALGORITHM :
+## DESIGN STEPS :
 
 ### Step 1:
 
